@@ -1,0 +1,11 @@
+---
+application:
+  name: "tgmusicbot"
+  project: "PutakVC3"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-tgmusicbot"
+  routes:
+  - application_name: "tgmusicbot"
+    paths:
+    - "/*"
